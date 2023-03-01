@@ -1,5 +1,6 @@
 import org.apache.commons.lang3.StringUtils;
 
+
 import java.util.Scanner;
 public class UserInputManipulation {
         public static void main(String[] args) {
